@@ -116,5 +116,5 @@ This is an open-source project aimed at helping people automate video transcript
 
 ### Example Badges:
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green
+![Python](https://img.shields.io/badge/python-3.12%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
